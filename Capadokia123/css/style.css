@@ -290,7 +290,6 @@ a {
 
 .hotel__inner {
     display: flex;
-    width: 1230px;
 }
 
 .hotel__images {
@@ -607,6 +606,7 @@ a {
 
     .hotel__content {
         padding: 0 15px;
+
     }
 
 
